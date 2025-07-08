@@ -1,0 +1,2 @@
+# FinTrackr
+Personal finance tracker
