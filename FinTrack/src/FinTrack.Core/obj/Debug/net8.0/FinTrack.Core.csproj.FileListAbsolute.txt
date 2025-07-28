@@ -1,0 +1,12 @@
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\bin\Debug\net8.0\FinTrack.Core.deps.json
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\bin\Debug\net8.0\FinTrack.Core.dll
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\bin\Debug\net8.0\FinTrack.Core.pdb
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.AssemblyInfoInputs.cache
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.AssemblyInfo.cs
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.csproj.CoreCompileInputs.cache
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.sourcelink.json
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.dll
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\refint\FinTrack.Core.dll
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\FinTrack.Core.pdb
+D:\Projects\FinTrackr\FinTrack\src\FinTrack.Core\obj\Debug\net8.0\ref\FinTrack.Core.dll
